@@ -1,4 +1,4 @@
-# SSS_Assignment_3
+# OAuth2.0 Authorization
 
 SLIIT, 3rd Year - 1st Sem, Cyber Security, SSS, Assignment 3
 
